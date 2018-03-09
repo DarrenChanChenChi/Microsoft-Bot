@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BOPdemo20170805052331" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\chenchi\\documents\\visual\ studio\ 2017\\Projects\\BOPdemo\\BOPdemo\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\chenchi\\documents\\visual\ studio\ 2017\\Projects\\BOPdemo\\BOPdemo\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

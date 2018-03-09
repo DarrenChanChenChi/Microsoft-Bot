@@ -1,0 +1,45 @@
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Bot Application.dll.config
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Bot Application.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Bot Application.pdb
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\APIXULib.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Autofac.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Chronic.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Builder.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Connector.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Newtonsoft.Json.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Net.Http.Formatting.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Web.Http.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Web.Http.WebHost.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Autofac.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Builder.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.Bot.Connector.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\Newtonsoft.Json.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Net.Http.Formatting.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Web.Http.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\System.Web.Http.WebHost.xml
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\obj\Release\BOPdemo.csprojResolveAssemblyReference.cache
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\obj\Release\Bot Application.dll
+C:\Users\chenchi\documents\visual studio 2017\Projects\BOPdemo\BOPdemo\obj\Release\Bot Application.pdb
