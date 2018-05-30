@@ -1,6 +1,6 @@
 # 我的机器人 #
 
-这是Bot framework的一个简单示例，请参考文章：
+这是Bot framework的一个简单示例，请参考我的博客：
 http://www.cnblogs.com/DarrenChan/p/7301380.html
 
 ## 配置工作 ##
